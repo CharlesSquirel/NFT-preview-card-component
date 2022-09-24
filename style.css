@@ -104,6 +104,13 @@ h3 {
   margin: 24px 25px 0 24px;
 }
 
+#cube:hover {
+  cursor: pointer;
+  background: #00FFF8;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
 #guy {
   width: 33px;
   height: 33px;
