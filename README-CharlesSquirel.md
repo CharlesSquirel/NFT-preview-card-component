@@ -109,4 +109,4 @@ From @correlucas:
 @media (hover: hover) {
 {ADD HERE ALL THE CLASSES WITH HOVER EFFECTS TO DISABLE IT ON MOBILE}
 }
-```.
+```
